@@ -1,0 +1,14 @@
+
+export const users = {
+    valido: {
+        usuario: 'standard_user',
+        senha: 'secret_sauce'
+    },
+
+    invalido: {
+        usuario: 'standard_user',
+        senha: 'senha_errada'
+    },
+
+
+};
